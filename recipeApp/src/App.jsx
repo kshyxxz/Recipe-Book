@@ -9,7 +9,7 @@ import "./App.css";
 
 function App() {
 	const [foodData, setFoodData] = useState([]);
-	const [foodId, setFoodId] = useState(716    300);
+	const [foodId, setFoodId] = useState(716300);
 	return (
 		<div>
 			<Nav />
